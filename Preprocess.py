@@ -4,6 +4,7 @@ import cv2
 import numpy as np
 import math
 import Main
+
 # module level variables ##########################################################################
 GAUSSIAN_SMOOTH_FILTER_SIZE = (5, 5)
 ADAPTIVE_THRESH_BLOCK_SIZE = 19
